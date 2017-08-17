@@ -1,0 +1,115 @@
+body {
+    background-color: #777;
+}
+
+.container {
+    width: 960px;
+    position: relative;
+}
+
+.header, .nav {
+    background-color: #ebebeb;
+    width: 960px;
+    margin: auto;
+    margin-bottom: 10px;
+    position: relative;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    text-align: center;
+}
+
+.section {
+    background-color: #ebebeb;
+    width: 55%;
+    margin: auto;
+    position: relative;
+    height: 250px;
+    float: left;
+    padding: 30px;
+    max-width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    text-align: center;
+}
+
+.article {
+    background-color: #777777;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    right: 10px;
+    top: 30px;
+    padding: 10px;
+    height: 190px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #ebebeb;
+}
+
+.paragraph {
+    background-color: #ebebeb;
+    width: 30%;
+    margin: auto;
+    position: relative;
+    top: 10px;
+    padding: 13px;
+    width: 92%;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    text-align: center;
+}
+
+.h1h2h3 {
+    background-color: #ebebeb;
+    width: 30%;
+    height: 30px;
+    margin: auto;
+    margin-top: 18px;
+    position: relative;
+    padding: 13px;
+    width: 92%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    font-weight: bold;
+    text-align: center;
+}
+
+aside {
+    background-color: #ebebeb;
+    width: 30%;
+    float: right;
+    padding: 30px;
+    position: relative;
+    max-width: 37%;
+    height: 250px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+footer {
+    background-color: #ebebeb;
+    width: 960px;
+    margin: auto;
+    margin-bottom: 10px;
+    position: relative;
+    top: 10px;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    text-align: center;
+}
